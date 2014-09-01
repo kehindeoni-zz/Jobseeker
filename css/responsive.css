@@ -1,0 +1,193 @@
+/*FOR TABLETS*/
+
+@media screen and (max-width: 1024px) {
+	
+	#firstcontainer img {
+		margin: -2% 0% 0 3%;
+		height: 10%;
+		width: 15%;
+	}
+
+
+	nav li a {
+		font-size: 1.3em;
+	}
+
+
+	.steps h2 {
+		font-size: 2.5em;
+	}
+
+
+	.steps p {
+		font-size: 1.5em;
+	}
+
+
+	button {
+		width: 15%;
+		font-size: 1.2em;
+		padding: 1%, 0%, 1%, 0%;
+	}
+
+
+	#hire h2 {
+		font-size: 2.3em;
+	}
+
+
+	#hire li {
+		font-size: 1em;
+		padding: 2%, 0.5%, 3%, 1%;
+
+	}
+
+	#secondcontainer h2 {
+		font-size: 2.5em;
+		padding: 2%, 0%, 1%, 0%;
+		margin-bottom: 2%;
+	}
+
+
+	.worksteps div {
+	display: inline block;
+	width: 45%;
+	margin-left: 2%;
+	}
+
+.arrows {
+	display: none !important;
+}
+
+}
+
+
+
+/*FOR MOBILE PHONES*/
+
+ @media screen and (max-width: 480px) {
+ 	nav ul {
+	text-align: right;
+	font-size: 7vw;
+}
+
+
+#firstcontainer img {
+	/*margin: -200% 0% 0 5%;*/
+	height: 20%;
+	width: 30%;
+	
+}
+
+
+nav li a {
+	font-size: 0.55em;
+}
+
+
+.steps {
+	text-align: left;
+}
+
+
+.steps h2 {
+	font-size: 10vw;
+}
+
+
+.steps p {
+	font-size: 1em;
+	padding: 0% 0% 2% 0%;
+}
+
+
+button {
+	width: 25%;
+	font-size: 0.8em;
+	padding: 1%, 0%, 1%, 0%;
+}
+
+#hire h2 {
+		font-size: 1.2em;
+	}
+
+
+#hire li {
+		font-size: 0.7em;
+		padding: 2%, 0.5%, 3%, 1%;
+
+	}
+
+
+#secondcontainer h2 {
+	font-size: 2.5em;
+	padding-bottom: 8%
+}
+
+
+.worksteps div {
+	display: block;
+	margin: 0% 0% 5% 40%;
+	width: 20%;
+	height: 20%;
+}
+
+
+.worksteps div p {
+	font-size: 0.9em;
+	padding: 2%, 0.5%, 1%, 0.5%;
+	font-family: bold;
+}
+
+
+.worksteps img {
+	width: 80%;
+	padding: 
+}
+
+
+.arrows {
+	background: url("../img/downarrow.png") no-repeat;
+	width: 80px;
+	height: 80px;
+	background-size: 100%, 100%;
+}
+
+
+#thirdcontainer {
+	padding-top: 10%;
+}
+
+
+#thirdcontainer h2 {
+	font-size: 2em;
+}
+
+	
+#thirdcontainer p{
+	font-size: 1em; 
+}
+
+
+
+#forthcontainer h2 {
+	font-size: 2em;
+	padding-top: 5%;
+}
+
+
+footer ul a{
+	text-align: center;
+}
+
+
+.logos div {
+	display: block;
+	/*padding: 0% 0% 0% 10%;*/
+}
+
+
+.logos img {
+	width: 50%;
+
+}
